@@ -1,0 +1,28 @@
+name: pcircle
+favicon: null
+layout_spectrum: 0.19143085600808263
+typography_spectrum: 0.47600912023335695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.29525199020281434
+  lightness: 0.3498024600557983
+  saturation: 0.8396591981872916
+  rhythmicContrast: 0.902529391925782
+purpose: []
